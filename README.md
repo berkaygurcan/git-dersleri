@@ -1,4 +1,5 @@
 # git-dersleri
+# git izlediğim dersler için kullandım bu depoyu
 ## projenin amacı
 **kalın kelime**</br>
 *italik kelime*
